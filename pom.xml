@@ -29,7 +29,7 @@
 
 	</properties>
 
-	</dependencies>
+	<dependencies>
 		
 		<dependency>
 			<groupId>org.json</groupId>
@@ -63,7 +63,7 @@
 
 		<dependency>
 			<groupId>org.springframework</groupId>
-			<artifactId>spring-core</artifactId>
+			<artifactId>spring-core</artifactId>out
 			<version>${spring.version}</version>
 		</dependency>
 		<dependency>
@@ -98,7 +98,7 @@
 	    <repository>
 	      <id>nexus</id>-->
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.127.114.208:9980/repository/wallmart-release/</url>
+	      <url>http://13.127.114.208:9980/repository/wallmaoutrt-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
@@ -134,7 +134,7 @@
 					</webApp>
 				</configuration>
 			</plugin>
-
+out
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven--->eclipse-plugin</artifactId>

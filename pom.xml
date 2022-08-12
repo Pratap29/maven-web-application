@@ -61,7 +61,7 @@
 
 		<!-- compile dependencies -->
 
-		<dependency>
+		</dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-core</artifactId>out
 			<version>${spring.version}</version>
